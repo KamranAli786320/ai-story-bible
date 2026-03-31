@@ -1,0 +1,28 @@
+{
+    "project_id": "proj_1774792128",
+    "title": "kamran",
+    "characters": [
+        {
+            "name": "Malakor",
+            "role": "King of the Iron Citadel",
+            "description": "The ruler of Elara, known for his dark past.",
+            "dialogue_style": "Gravelly and commanding"
+        },
+        {
+            "name": "Queen Elara",
+            "role": "Ruler of the Sun-Drenched Valleys",
+            "description": "A sharp-witted and poetic monarch.",
+            "dialogue_style": "Poetic and enigmatic"
+        },
+        {
+            "name": "Kaelen",
+            "role": "Young Royal Guard",
+            "description": "Malakor's secret nephew, a loyal but troubled individual.",
+            "dialogue_style": "Tense and alert"
+        }
+    ],
+    "chapters": {
+        "main": "Title: The Obsidian Crown\n\nThe kingdom of Elara was unfolding under a dark shadow. Malakor, known as the King of the Iron Citadel, stood atop the balcony, his armor clinking in the cold wind. He whispered a low, gravelly rasp to himself, clutching his obsidian sword.\n\nNearby, Queen Elara watched him with a sharp, poetic gaze. She was the Ruler of the Sun-Drenched Valleys, and she didn't trust Malakor; he was once her father’s most loyal general, but now he was merely a shadow of the man he used to be.\n\nTense and alert, Kaelen, a Young Royal Guard, gripped his spear tightly. Kaelen was Malakor’s secret nephew, a fact that could get them both executed if Elara ever found out. The secret was a heavy burden, pressing down on him as he stood watch over the stone halls."
+    },
+    "relationships": []
+}

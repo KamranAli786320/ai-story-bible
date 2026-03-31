@@ -1,0 +1,22 @@
+{
+    "characters": [
+        {
+            "name": "Zaviyar",
+            "role": "Tea Stall Owner",
+            "description": "The owner of the tea stall in Anarkali with sharp eyes watching the crowd.",
+            "dialogue_style": "Deep, poetic Lahore accent"
+        },
+        {
+            "name": "Daniyal",
+            "role": "Young Guy in Leather Jacket",
+            "description": "Always uses modern slang like 'literally' and 'vibes'.",
+            "dialogue_style": "Modern slang"
+        },
+        {
+            "name": "Zoya",
+            "role": "Hacker",
+            "description": "A cold and calculated hacker who speaks like she's reading computer code.",
+            "dialogue_style": "Cold, calculated"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "project_id": "proj_1774986231",
+    "title": "horror",
+    "characters": [
+        {
+            "name": "Adnan",
+            "role": "Chief Architect"
+        },
+        {
+            "name": "Irfan",
+            "role": "Lead Structural Engineer"
+        },
+        {
+            "name": "Zeeshan",
+            "role": "Site Safety Supervisor"
+        },
+        {
+            "name": "Ali",
+            "role": "Senior Electrical Consultant"
+        }
+    ],
+    "chapters": {
+        "main": "Bhai, ye ek aur different scenario wali story hai taake aap check kar sakein ke AI different contexts mein characters ko kaise pehchanta hai. Isme Adnan, Irfan, Zeeshan, aur Ali bilkul alag roles mein hain.\n\nThe Grand Blueprint (Test Story 2)\nThe sun was setting over the construction site of the new tech city. Adnan, the Chief Architect, unrolled a massive blueprint on the hood of his jeep. \"If we don't align the foundation by tomorrow, the whole project stalls,\" he said, pointing to the structural center.\n\nIrfan, the Lead Structural Engineer, adjusted his hard hat and looked through his surveying equipment. \"The soil density is shifting, Adnan. I’ve already recalculated the load-bearing pillars to compensate,\" Irfan noted, marking the changes in red ink.\n\nJust then, a dusty motorbike pulled up. Zeeshan, the Site Safety Supervisor, hopped off with a clipboard in hand. \"We’ve got a problem in Sector 4. The heavy machinery is too close to the edge. I’ve halted all movement there until we secure the perimeter,\" Zeeshan reported firmly, prioritizing the workers' lives.\n\nFrom the nearby power station, Ali, the Senior Electrical Consultant, walked toward them wiping grease from his hands. \"The main grid connection is live, but we need a surge protector for the server room. I’ll have the backup generators synced by midnight,\" Ali added with a confident nod.\n\nAdnan looked at the three men. With Irfan’s precision, Zeeshan’s vigilance, and Ali’s technical mastery, he knew the tech city would be more than just a dream."
+    },
+    "relationships": [],
+    "chat_history": []
+}

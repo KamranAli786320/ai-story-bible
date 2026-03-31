@@ -1,0 +1,45 @@
+{
+    "characters": [
+        {
+            "name": "Malakor",
+            "role": "King of the Iron Citadel",
+            "description": "A character known as the King of the Iron Citadel and the main antagonist.",
+            "dialogue_style": "Gravelly rasp"
+        },
+        {
+            "name": "Queen Elara",
+            "role": "The Ruler of the Sun-Drenched Valleys",
+            "description": "A character who is not Kamran bhai or Malakor, and has a different role in the story.",
+            "dialogue_style": ""
+        },
+        {
+            "name": "Kaelen",
+            "role": "Young Royal Guard",
+            "description": "A Young Royal Guard with a secret relationship to Malakor.",
+            "dialogue_style": "Tense and alert"
+        },
+        {
+            "name": "Sajid",
+            "role": "",
+            "description": "A man who never was one for big speeches and sits silently, tracing the cracks in a wooden table with his thumb.",
+            "dialogue_style": "whispered"
+        },
+        {
+            "name": "Zoya",
+            "role": "",
+            "description": "An architect who sees the world in straight lines and right angles, leaving no room for Sajid\u2019s messy emotions.",
+            "dialogue_style": "coldly"
+        },
+        {
+            "name": "Amna",
+            "role": "Sajid's daughter",
+            "description": "",
+            "dialogue_style": ""
+        },
+        {
+            "name": "Kamran bhai",
+            "role": "Testers (no role specified)",
+            "description": "A character who might be a narrator or an editor."
+        }
+    ]
+}

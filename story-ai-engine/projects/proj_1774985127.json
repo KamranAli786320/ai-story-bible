@@ -1,0 +1,34 @@
+{
+    "project_id": "proj_1774985127",
+    "title": "adnan",
+    "characters": [
+        {
+            "name": "Adnan",
+            "role": "Project Lead",
+            "description": "Pacing back and forth, staring at the red alert on the main monitor.",
+            "dialogue_style": "Excited and urgent"
+        },
+        {
+            "name": "Irfan",
+            "role": "Senior Systems Architect",
+            "description": "Fingers flying across the mechanical keyboard. Calm despite the chaos.",
+            "dialogue_style": "Technical and calm"
+        },
+        {
+            "name": "Zeeshan",
+            "role": "Team’s Lead Security Specialist",
+            "description": "Dripping wet, dropping a heavy encrypted briefcase on the table. Panting heavily.",
+            "dialogue_style": "Bravely assertive"
+        },
+        {
+            "name": "Ali",
+            "role": "Veteran Infrastructure Engineer",
+            "description": "Stepping out holding a glowing fiber-optic cable. Pleading for stabilization of the power flow first.",
+            "dialogue_style": "Resolute and authoritative"
+        }
+    ],
+    "chapters": {
+        "main": "Bhai, ye rahi ek detailed test story jisme aapke bataye huye saare characters (Adnan, Irfan, Zeeshan, aur Ali) shamil hain.\n\nAap isko editor mein paste karein, 2-3 seconds wait karein (autosave trigger hone ke liye), ya agar button hai to Sync dabayein. Side panel mein in sab ke cards bante huye nazar aane chahiye.\n\nThe Midnight Protocol (Test Story)\nThe rain lashed against the windows of the high-tech lab in Lahore. Adnan, the Project Lead, paced back and forth, staring at the red alert on the main monitor. \"We are losing the connection!\" he shouted.\n\nIn the corner, Irfan, a Senior Systems Architect, didn't look up from his three screens. His fingers flew across the mechanical keyboard. \"I’m rerouting the traffic through the backup servers, Adnan. Just give me sixty seconds,\" Irfan replied, his voice calm despite the chaos.\n\nSuddenly, the heavy steel door slid open. Zeeshan, the team’s Lead Security Specialist, rushed in dripping wet. He dropped a heavy encrypted briefcase on the table. \"They followed me, but I got the core drive. Adnan, we need to initialize the handshake now,\" Zeeshan panted, checking the tactical watch on his wrist.\n\n\"Wait!\" a voice boomed from the shadows of the server room. It was Ali, the veteran Infrastructure Engineer. He stepped out holding a glowing fiber-optic cable. \"If you plug that drive in now, the whole grid will fry. Let me stabilize the power flow first.\"\n\nAdnan looked at his team—Irfan’s technical precision, Zeeshan’s bravery, and Ali’s deep knowledge of the hardware. \"Do it, Ali. Everyone else, position yourselves. We only get one shot at this midnight protocol.\""
+    },
+    "relationships": []
+}
